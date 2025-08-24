@@ -26,7 +26,6 @@ Driven by continuous learning, I strive to combine my background in hardware, so
 <h2 align="center">Technology Stack 🚀</h2>
 
 <p align="center">
-  
   <img src="https://img.shields.io/badge/C-%23121011.svg?style=for-the-badge&logo=c&logoColor=white"/>
   <img src="https://img.shields.io/badge/C++-%23121011.svg?style=for-the-badge&logo=cplusplus&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-%23121011.svg?style=for-the-badge&logo=javascript&logoColor=white"/>
@@ -41,8 +40,8 @@ Driven by continuous learning, I strive to combine my background in hardware, so
 <h2 align="center">Pinned Repositories 📌</h2>
 
 <p align="center">
-  <img src="https://github.com/Kozirr/Kozirr/blob/main/images/uzgunari.png"/>
-  <br>(I don't have any hüüüüü)
+ <a href="https://github.com/Kozirr/Simple-Calculator">
+  <img align="center" src="https://github-readme-stats-theyka.vercel.app/api/pin/?username=Kozirr&repo=simple-calculator&theme=radical&show_icons=true&disable_animations=true&show_owner=true" />
 </p>
 
 <h2 align="center">My Github Stats 📊</h2>
