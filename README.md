@@ -48,6 +48,5 @@ Driven by continuous learning, I strive to combine my background in hardware, so
 
 <p align="center">
   <img src="https://github-readme-stats-theyka.vercel.app/api?username=Kozirr&show_icons=true&theme=radical&line_height=28">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kozirr&theme=radical">
   <img src="https://github-readme-stats-theyka.vercel.app/api/top-langs/?username=Kozirr&layout=donut&theme=radical&exclude_repo=github-readme-stats">
 </p>
