@@ -37,12 +37,12 @@ Driven by continuous learning, I strive to combine my background in hardware, so
   
 </p>
 
-<h2 align="center">Pinned Repositories 📌</h2>
+<!-- <h2 align="center">Pinned Repositories 📌</h2>
 
 <p align="center">
  <a href="https://github.com/Kozirr/Simple-Calculator">
   <img align="center" src="https://github-readme-stats-theyka.vercel.app/api/pin/?username=Kozirr&repo=simple-calculator&theme=radical&show_icons=true&disable_animations=true&show_owner=true" />
-</p>
+</p> -->
 
 <h2 align="center">My Github Stats 📊</h2>
 
