@@ -26,13 +26,15 @@ Driven by continuous learning, I strive to combine my background in hardware, so
 <h2 align="center">Technology Stack 🚀</h2>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/C-%23121011.svg?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TypeScript-%23121011.svg?style=for-the-badge&logo=typescript&logoColor=blue"/>
+  <img src="https://img.shields.io/badge/Tailwind%20CSS-%23121011.svg?style=for-the-badge&logo=tailwindcss&logoColor=blue"/>
+  <img src="https://img.shields.io/badge/Svelte-%23121011.svg?style=for-the-badge&logo=svelte&logoColor=red"/>
+  <img src="https://img.shields.io/badge/C-%23121011.svg?style=for-the-badge&logo=c&logoColor=blue"/>
   <img src="https://img.shields.io/badge/Rust-%23121011.svg?style=for-the-badge&logo=rust&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-%23121011.svg?style=for-the-badge&logo=javascript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TypeScript-%23121011.svg?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-%23121011.svg?style=for-the-badge&logo=react&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Debian-%23121011.svg?style=for-the-badge&logo=debian&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Arch-%23121011.svg?style=for-the-badge&logo=archlinux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-%23121011.svg?style=for-the-badge&logo=postgresql&logoColor=blue"/>
+  <img src="https://img.shields.io/badge/Debian-%23121011.svg?style=for-the-badge&logo=debian&logoColor=red"/>
+  <img src="https://img.shields.io/badge/Arch-%23121011.svg?style=for-the-badge&logo=archlinux&logoColor=blue"/>
+  <img src="https://img.shields.io/badge/Fish%20Shell-%23121011.svg?style=for-the-badge&logo=fishshell&logoColor=green"/>
   
 </p>
 
